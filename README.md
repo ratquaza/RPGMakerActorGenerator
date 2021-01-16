@@ -1,4 +1,4 @@
-# RPG Maker Face Generator (RMFG)
+# RPG Maker Faces Generator (RMFG)
 
 ![Logo](logo.png)
 
