@@ -1,4 +1,7 @@
 # RPG Maker Actor Generator (RMAG)
+
+![Logo](logo.png)
+
 Quick and easy way to merge multiple image files into a 576x288 grid to use as Actor images for RPG Maker.
 
 Supply the source directory, output directory, extension to use (without the .).

@@ -5,7 +5,6 @@ packages
 packages/
 packages/*
 icon.ico
-logo.png
 RPGMakerActorGenerator\bin
 RPGMakerActorGenerator\bin\
 RPGMakerActorGenerator\bin\*
