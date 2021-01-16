@@ -1,0 +1,14 @@
+.vs
+.vs/
+.vs/*
+packages
+packages/
+packages/*
+icon.ico
+logo.png
+RPGMakerActorGenerator\bin
+RPGMakerActorGenerator\bin\
+RPGMakerActorGenerator\bin\*
+RPGMakerActorGenerator\obj
+RPGMakerActorGenerator\obj\
+RPGMakerActorGenerator\obj\*
