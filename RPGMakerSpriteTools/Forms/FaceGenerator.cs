@@ -9,11 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RPGMakerActorGenerator
+namespace RPGMakerSpriteTools
 {
-    public partial class ActorForm : Form
+    public partial class FaceGenerator : Form
     {
-        public ActorForm()
+        public FaceGenerator()
         {
             InitializeComponent();
         }

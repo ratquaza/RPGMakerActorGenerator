@@ -1,0 +1,16 @@
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\RPGMakerSpriteTools.exe.config
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\RPGMakerSpriteTools.exe
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\RPGMakerSpriteTools.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\Ookii.Dialogs.Wpf.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.csprojAssemblyReference.cache
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.Properties.Resources.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.csproj.GenerateResource.cache
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.csproj.CoreCompileInputs.cache
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.csproj.CopyComplete
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.exe
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.FaceGenerator.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.RMSTMenu.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Debug\RPGMakerSpriteTools.IconsetGenerator.resources

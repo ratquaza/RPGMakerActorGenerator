@@ -1,7 +1,7 @@
 ﻿
-namespace RPGMakerActorGenerator
+namespace RPGMakerSpriteTools
 {
-    partial class ActorForm
+    partial class IconsetGenerator
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace RPGMakerActorGenerator
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ActorForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(IconsetGenerator));
             this.SourceDirLabel = new System.Windows.Forms.Label();
             this.SourceDirText = new System.Windows.Forms.TextBox();
             this.SourceDirButton = new System.Windows.Forms.Button();
@@ -41,8 +41,6 @@ namespace RPGMakerActorGenerator
             this.FormatLabel = new System.Windows.Forms.Label();
             this.ExtensionInput = new System.Windows.Forms.TextBox();
             this.AreNumbered = new System.Windows.Forms.CheckBox();
-            this.PrefixText = new System.Windows.Forms.TextBox();
-            this.PrefixLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // SourceDirLabel
@@ -80,7 +78,7 @@ namespace RPGMakerActorGenerator
             this.OutputDirLabel.Name = "OutputDirLabel";
             this.OutputDirLabel.Size = new System.Drawing.Size(81, 19);
             this.OutputDirLabel.TabIndex = 3;
-            this.OutputDirLabel.Text = "Output Dir:";
+            this.OutputDirLabel.Text = "Output File:";
             this.OutputDirLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // OutputDirText
@@ -151,30 +149,11 @@ namespace RPGMakerActorGenerator
             this.AreNumbered.Text = "Source Files are Numbered";
             this.AreNumbered.UseVisualStyleBackColor = true;
             // 
-            // PrefixText
-            // 
-            this.PrefixText.Location = new System.Drawing.Point(85, 89);
-            this.PrefixText.Name = "PrefixText";
-            this.PrefixText.Size = new System.Drawing.Size(144, 20);
-            this.PrefixText.TabIndex = 12;
-            // 
-            // PrefixLabel
-            // 
-            this.PrefixLabel.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.PrefixLabel.Location = new System.Drawing.Point(12, 90);
-            this.PrefixLabel.Name = "PrefixLabel";
-            this.PrefixLabel.Size = new System.Drawing.Size(78, 19);
-            this.PrefixLabel.TabIndex = 11;
-            this.PrefixLabel.Text = "Extension: ";
-            this.PrefixLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // ActorForm
+            // IconsetGenerator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(448, 294);
-            this.Controls.Add(this.PrefixText);
-            this.Controls.Add(this.PrefixLabel);
             this.Controls.Add(this.AreNumbered);
             this.Controls.Add(this.ExtensionInput);
             this.Controls.Add(this.FormatLabel);
@@ -187,8 +166,8 @@ namespace RPGMakerActorGenerator
             this.Controls.Add(this.SourceDirText);
             this.Controls.Add(this.SourceDirLabel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Name = "ActorForm";
-            this.Text = "RPG Maker Faces Generator";
+            this.Name = "IconsetGenerator";
+            this.Text = "RMST Iconset Generator";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -204,15 +183,13 @@ namespace RPGMakerActorGenerator
         private System.Windows.Forms.Label OutputDirLabel;
         private System.Windows.Forms.TextBox OutputDirText;
         private System.Windows.Forms.Button OutputDirButton;
-        private Ookii.Dialogs.Wpf.VistaFolderBrowserDialog OutputDirDialog = new Ookii.Dialogs.Wpf.VistaFolderBrowserDialog();
+        private Ookii.Dialogs.Wpf.VistaSaveFileDialog OutputDirDialog = new Ookii.Dialogs.Wpf.VistaSaveFileDialog();
         private string SelectedOutputDir;
         private System.Windows.Forms.Button StartButton;
         private System.Windows.Forms.Label StatusText;
         private System.Windows.Forms.Label FormatLabel;
         private System.Windows.Forms.TextBox ExtensionInput;
         private System.Windows.Forms.CheckBox AreNumbered;
-        private System.Windows.Forms.TextBox PrefixText;
-        private System.Windows.Forms.Label PrefixLabel;
     }
 }
 

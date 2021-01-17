@@ -1,10 +1,11 @@
-﻿using System;
+﻿using RPGMakerSpriteTools;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RPGMakerActorGenerator
+namespace RPGMakerSpriteTools
 {
     static class Program
     {
@@ -16,7 +17,7 @@ namespace RPGMakerActorGenerator
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ActorForm());
+            Application.Run(new RMSTMenu());
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\RPGMakerSpriteTools.exe.config
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\RPGMakerSpriteTools.exe
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\RPGMakerSpriteTools.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\Ookii.Dialogs.Wpf.dll
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\Ookii.Dialogs.Wpf.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\bin\Release\Ookii.Dialogs.Wpf.xml
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.Properties.Resources.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.csproj.GenerateResource.cache
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.csproj.CoreCompileInputs.cache
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.csproj.CopyComplete
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.exe
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.pdb
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.FaceGenerator.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.RMSTMenu.resources
+D:\Github\RPGMakerSpriteTools\RPGMakerSpriteTools\obj\Release\RPGMakerSpriteTools.IconsetGenerator.resources

@@ -1,0 +1,14 @@
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\RPGMakerActorGenerator.exe.config
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\RPGMakerActorGenerator.exe
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\RPGMakerActorGenerator.pdb
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\Ookii.Dialogs.Wpf.dll
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\Ookii.Dialogs.Wpf.pdb
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\bin\Debug\Ookii.Dialogs.Wpf.xml
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.csprojAssemblyReference.cache
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.ActorForm.resources
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.Properties.Resources.resources
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.csproj.GenerateResource.cache
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.csproj.CoreCompileInputs.cache
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.csproj.CopyComplete
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.exe
+D:\Github\RPGMakerActorGenerator\RPGMakerActorGenerator\RPGMakerActorGenerator\obj\Debug\RPGMakerActorGenerator.pdb
